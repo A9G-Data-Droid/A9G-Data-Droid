@@ -1,5 +1,5 @@
-[![A9G-Data-Droid's GitHub stats](https://github-readme-stats.vercel.app/api?username=A9G-Data-Droid&show_icons=true&theme=github_dark)](https://github.com/A9G-Data-Droid)
-[![A9G-Data-Droid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=A9G-Data-Droid&show_icons=true&theme=github_dark&layout=compact)](https://github.com/A9G-Data-Droid)
+[![A9G-Data-Droid's GitHub stats](https://github-readme-stats.vercel.app/api?username=A9G-Data-Droid&show_icons=true&theme=transparent&count_private=true)](https://github.com/A9G-Data-Droid)
+[![A9G-Data-Droid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=A9G-Data-Droid&show_icons=true&theme=transparent)](https://github.com/A9G-Data-Droid)
 
 <!--- [![@a9gdatadroid's Holopin board](https://holopin.io/api/user/board?user=a9gdatadroid)](https://holopin.io/@a9gdatadroid) -->
 
